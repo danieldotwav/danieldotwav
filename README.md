@@ -5,8 +5,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldotwav&show_icons=true&locale=en&layout=compact" alt="danieldotwav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldotwav&show_icons=true&locale=en" alt="danieldotwav" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldotwav&" alt="danieldotwav" /></p>
 
 
