@@ -11,4 +11,4 @@
 -->
 
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldotwav&layout=compact&langs_count=10&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldotwav&layout=compact&langs_count=6&theme=dark" />
