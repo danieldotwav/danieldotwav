@@ -3,9 +3,7 @@
 
 <h3 align="left">GitHub Stats</h3>
 <!-- Streak Card -->
-<!--
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldotwav&theme=dark" alt="danieldotwav" />
--->
 
 <!-- GitHub User Stats Card -->
 <!--
