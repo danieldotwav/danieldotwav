@@ -11,13 +11,6 @@
 </p>
 
 <h3 align="left">GitHub Stats</h3>
-<!-- Streak Card -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldotwav&theme=dark" alt="danieldotwav" /> -->
-
-<!-- GitHub User Stats Card -->
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldotwav&show_icons=true&locale=en&theme=dark&layout=compact" alt="danieldotwav" />
--->
 
 <!-- Top Languages Card -->
 
@@ -26,6 +19,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldotwav&layout=compact&langs_count=6&theme=dark" />
 </div>
+
+<h3 align="left">Overview</h3>
 
 <!-- Contribution Summary -->
 
