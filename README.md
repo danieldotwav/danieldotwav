@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"/>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
+<!-- <h3 align="left">GitHub Stats</h3> -->
 
 <!-- Top Languages Card -->
 
